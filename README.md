@@ -1,7 +1,7 @@
 <h1 align="center">Dashboard de Vendas com PostgreSQL</h1>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/102304054/183627152-73ef6864-1b87-48c7-8472-96a655198ddf.png">
+  <img src="https://user-images.githubusercontent.com/102304054/183674773-fa735d7e-b7a1-400e-8e08-aff5dcd977fa.png">
 </p>
  
  ## 1. Dashboard
